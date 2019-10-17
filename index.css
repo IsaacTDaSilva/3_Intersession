@@ -1,8 +1,16 @@
-body{background-color: #C0CEFE ;
-    background-image: url("https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix-1024x678.jpg");
-    }
+#home { ;
+    background: url('https://i.ytimg.com/vi/5rROB6coXig/maxresdefault.jpg') no-repeat 0px 0px white;
+    background-size: 100%;
+    background-attachment: fixed;
+}
 
-    h2{text-align:center; font-size:50px;}
+#page2-background { ;
+    background: url('https://static.qobuz.com/images/covers/ga/vu/zthotuprdvuga_600.jpg') no-repeat 0px 0px white;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h2{text-align:center; font-size:50px;}
  
 p{border:2px solid red;
    background-color:#9EB2F7;
@@ -36,4 +44,9 @@ p{border:2px solid black;}
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+.text-content {
+    width: 50%;
+    margin: 220px auto;
 }
