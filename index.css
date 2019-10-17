@@ -10,6 +10,15 @@
     background-attachment: fixed;
 }
 
+#index-background { ;
+    background: url('https://www.thegreatcoursesdaily.com/wp-content/uploads/2019/07/Gilberto-Feature-1024x555.jpg') no-repeat 0px 0px white;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+
+
 h2{text-align:center; font-size:50px;}
  
 p{border:2px solid red;
@@ -32,6 +41,7 @@ p{border:2px solid black;}
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  -webkit-transition:all 0.5s;
 }
 
 /* Change the color of links on hover */
@@ -42,7 +52,7 @@ p{border:2px solid black;}
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: orange;
   color: white;
 }
 
