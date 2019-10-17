@@ -2,13 +2,11 @@ body{background-color: #C0CEFE ;
     background-image: url("https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix-1024x678.jpg");
     }
 
-div {
-  background-color: grey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
+    h2{text-align:center; font-size:50px;}
+ 
+p{border:2px solid red;
+   background-color:#9EB2F7;
+    text-align:center}
 
 p{border:2px solid black;}
 
