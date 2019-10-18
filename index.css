@@ -58,5 +58,13 @@ p{border:2px solid black;}
 
 .text-content {
     width: 50%;
+    margin: auto;
+}
+
+.home-text-content {
     margin: 220px auto;
+}
+
+.title {
+    font-size: 60px;
 }
