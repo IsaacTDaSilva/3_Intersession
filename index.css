@@ -15,7 +15,13 @@
     background-size: 100%;
     background-attachment: fixed;
 }
-
+.tumadre {
+    float:right;
+    opacity:0;
+}
+.tumadre:hover {
+    opacity:1;
+}
 
 
 
