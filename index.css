@@ -49,16 +49,16 @@ p{border:2px solid black;}
   font-size: 17px;
   -webkit-transition:all 0.5s;
 }
-
+1 #ddd  #E26F25 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #224982 #ddd;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: Red;
+  background-color: #E26F25;
   color: Black;
 }
 
