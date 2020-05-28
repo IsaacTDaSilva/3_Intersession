@@ -5,13 +5,13 @@
 }
 
 #page2-background { ;
-    background: url('https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') no-repeat 0px 0px white;
-    background-size: 100%;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT09CoPVzU9EspUr77ZU8jIf81L1DVt2JLc2IK7jRHH4bTlQPTk&usqp=CAU') no-repeat 0px 0px white;
+    background-size: 50%;
     background-attachment: fixed;
 }
 
 #index-background { ;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT09CoPVzU9EspUr77ZU8jIf81L1DVt2JLc2IK7jRHH4bTlQPTk&usqp=CAU') no-repeat 0px 0px white;
+    background: url('https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') no-repeat 0px 0px white;
     background-size: 100%;
     background-attachment: fixed;
 }
