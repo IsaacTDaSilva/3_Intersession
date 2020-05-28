@@ -58,7 +58,7 @@ p{border:2px solid black;}
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: Red;
+  background-color: Purple;
   color: Black;
 }
 
