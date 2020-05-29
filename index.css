@@ -10,6 +10,12 @@
     background-attachment: Center;
 }
 
+#page2-background { ;
+    background: url('https://media.tenor.com/images/6babf5248533b739c9e2a7f913f921fd/tenor.gif') repeat 0px 0px white;
+    background-size: 25%;
+    background-attachment: fixed;
+}
+
 #index-background { ;
     background: url('https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80') no-repeat 0px 0px white;
     background-size: 100%;
